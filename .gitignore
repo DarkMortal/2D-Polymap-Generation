@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+./casting
+.vscode
+.gitignore
+./Cast.png
