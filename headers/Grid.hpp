@@ -13,7 +13,6 @@ using namespace std;
 
 vector<Cell> grid;
 vector<Edge> edgeList;
-vector<visibleRay> rays;
 const Color SHADOW = Color::Black;
 
 int index(uint16_t i,uint16_t j,uint16_t n){
